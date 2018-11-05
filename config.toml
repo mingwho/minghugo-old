@@ -34,7 +34,7 @@ enableEmoji = true
 [params.index]
   picture = "/images/ming.jpg"
   title = "Ming Hu"
-  subtitle = ""
+  subtitle = " "
 
   alertbar = false
 
