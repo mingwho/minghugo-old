@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mingwho.com/case/interactive-human-digital-avatar/</loc>
+    <loc>/case/interactive-human-digital-avatar/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mingwho.com/art/first-try/</loc>
+    <loc>/art/first-try/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mingwho.com/art/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mingwho.com/case/</loc>
+    <loc>/art/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mingwho.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mingwho.com/tags/chatbot/</loc>
+    <loc>/case/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mingwho.com/tags/interesting/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chatbot/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mingwho.com/</loc>
+    <loc>/tags/interesting/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mingwho.com/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <priority>0</priority>
   </url>
