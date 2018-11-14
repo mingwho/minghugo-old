@@ -2,7 +2,7 @@
 title: "Illuminated"
 date: 2018-10-07T11:17:14+02:00
 publishdate: 2018-10-07T11:17:14+02:00
-image: "/images/case/illuminated.png"
+image: "/images/case/illuminated.jpg"
 tags: ["tech"]
 comments: false
 ---
