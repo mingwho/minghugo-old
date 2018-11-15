@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d588f721-7d69-4885-b0c8-c324faf92fe8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/case/Aria.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/case/Aria.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/case/Haptic Simulator.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/case/Haptic Simulator.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/case/Illuminated.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/case/Illuminated.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/case/Interactive Gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/case/Interactive Gallery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/case/Robonica.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/case/Robonica.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/case/interactive human digital avatar.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/case/interactive human digital avatar.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,9 +36,9 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="10" />
-          <entry key="html" value="17" />
+          <entry key="html" value="20" />
           <entry key="jpg" value="1" />
-          <entry key="md" value="16" />
+          <entry key="md" value="23" />
           <entry key="sh" value="1" />
           <entry key="toml" value="5" />
         </counts>
@@ -40,27 +46,27 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="10" />
-          <entry key="HTML" value="17" />
+          <entry key="HTML" value="20" />
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="16" />
+          <entry key="Markdown" value="23" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="208" />
-          <entry key="HTML" value="521" />
-          <entry key="Markdown" value="1326" />
+          <entry key="CSS" value="210" />
+          <entry key="HTML" value="532" />
+          <entry key="Markdown" value="1596" />
           <entry key="PLAIN_TEXT" value="458" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="208" />
-          <entry key="html" value="521" />
-          <entry key="md" value="1326" />
+          <entry key="css" value="210" />
+          <entry key="html" value="532" />
+          <entry key="md" value="1596" />
           <entry key="toml" value="458" />
         </counts>
       </usages-collector>
@@ -69,65 +75,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/static/css/additional.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/static/css/medium.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="591" column="4" lean-forward="true" selection-start-line="591" selection-start-column="4" selection-end-line="591" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/alertbar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="8" column="82" lean-forward="true" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/jumbotron.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/medium.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="587" column="21" lean-forward="true" selection-start-line="587" selection-start-column="21" selection-end-line="587" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/case/interactive human digital avatar.md">
+        <entry file="file://$PROJECT_DIR$/content/case/Aria.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,11 +87,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/case/Robonica.md">
+        <entry file="file://$PROJECT_DIR$/content/case/Illuminated.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="253">
-                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -150,8 +102,32 @@
         <entry file="file://$PROJECT_DIR$/content/case/Haptic Simulator.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/case/Robonica.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/case/interactive human digital avatar.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,10 +138,55 @@
         <entry file="file://$PROJECT_DIR$/content/case/Interactive Gallery.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
-                <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <first_editor relative-caret-position="115">
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/_default/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/case/Zendesk Gateway.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="92">
+                <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/case/interactive-gallery/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="140" column="99" selection-start-line="140" selection-start-column="99" selection-end-line="140" selection-end-column="99" />
+              <folding>
+                <element signature="e#5649#5656#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="94" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="94" />
+              <folding>
+                <element signature="e#236#242#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,11 +195,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Logo</find>
-      <find>whatever</find>
-      <find>made by</find>
-      <find>text-center</find>
-      <find>main-content</find>
       <find>font-size</find>
       <find>subtitle</find>
       <find>All posts</find>
@@ -204,10 +220,16 @@
       <find>jumbotron</find>
       <find>200px</find>
       <find>350</find>
+      <find>80px</find>
+      <find>share</find>
+      <find>copyrig</find>
+      <find>next</find>
+      <find>6</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/content/case</dir>
       <dir>$PROJECT_DIR$/</dir>
+      <dir>$PROJECT_DIR$/themes</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -217,23 +239,25 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/navbar.html" />
-        <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/_default/list.html" />
         <option value="$PROJECT_DIR$/content/art/special-effect-makeup.md" />
         <option value="$PROJECT_DIR$/content/case/Telepresence.md" />
-        <option value="$PROJECT_DIR$/content/case/Illuminated.md" />
-        <option value="$PROJECT_DIR$/content/case/Robonica.md" />
         <option value="$PROJECT_DIR$/content/art/film.md" />
-        <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/footer.html" />
         <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/static/css/additional.css" />
-        <option value="$PROJECT_DIR$/content/case/Interactive Gallery.md" />
         <option value="$PROJECT_DIR$/content/case/Valley of the Wind.md" />
-        <option value="$PROJECT_DIR$/content/case/interactive human digital avatar.md" />
-        <option value="$PROJECT_DIR$/content/case/Haptic Simulator.md" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/alertbar.html" />
         <option value="$PROJECT_DIR$/public/css/medium.css" />
         <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/static/css/medium.css" />
+        <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/footer.html" />
+        <option value="$PROJECT_DIR$/content/case/Robonica.md" />
+        <option value="$PROJECT_DIR$/content/case/interactive human digital avatar.md" />
+        <option value="$PROJECT_DIR$/content/case/Interactive Gallery.md" />
+        <option value="$PROJECT_DIR$/content/case/Illuminated.md" />
+        <option value="$PROJECT_DIR$/content/case/Haptic Simulator.md" />
+        <option value="$PROJECT_DIR$/content/case/Aria.md" />
+        <option value="$PROJECT_DIR$/content/case/Zendesk Gateway.md" />
+        <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/_default/list.html" />
       </list>
     </option>
   </component>
@@ -326,12 +350,12 @@
       <workItem from="1541879429213" duration="423000" />
       <workItem from="1542110629940" duration="5167000" />
       <workItem from="1542183741460" duration="1856000" />
-      <workItem from="1542302749912" duration="3889000" />
+      <workItem from="1542302749912" duration="6105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26567000" />
+    <option name="totallyTimeSpent" value="28783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="26" width="1199" height="740" extended-state="0" />
@@ -407,13 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/_default/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/404.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -441,78 +458,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/case/Valley of the Wind.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="230">
             <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/case/Aria.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/case/Illuminated.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/case/interactive human digital avatar.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/case/Robonica.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/case/Haptic Simulator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/case/Interactive Gallery.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -528,7 +478,7 @@
     <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/alertbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
-          <caret line="8" column="82" lean-forward="true" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
+          <caret line="8" column="82" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
         </state>
       </provider>
     </entry>
@@ -542,7 +492,7 @@
     <entry file="file://$PROJECT_DIR$/public/css/medium.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="587" column="21" lean-forward="true" selection-start-line="587" selection-start-column="21" selection-end-line="587" selection-end-column="21" />
+          <caret line="587" column="20" selection-start-line="587" selection-start-column="20" selection-end-line="587" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -555,8 +505,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/static/css/medium.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="591" column="4" lean-forward="true" selection-start-line="591" selection-start-column="4" selection-end-line="591" selection-end-column="4" />
+        <state relative-caret-position="225">
+          <caret line="587" column="16" selection-start-line="587" selection-start-column="16" selection-end-line="587" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/partials/_shared/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="94" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="94" />
+          <folding>
+            <element signature="e#236#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/case/Robonica.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/case/interactive human digital avatar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/case/Interactive Gallery.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/case/Illuminated.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/case/Haptic Simulator.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/case/Aria.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/case/Zendesk Gateway.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/case/interactive-gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="140" column="99" selection-start-line="140" selection-start-column="99" selection-end-line="140" selection-end-column="99" />
+          <folding>
+            <element signature="e#5649#5656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/_default/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
         </state>
       </provider>
     </entry>

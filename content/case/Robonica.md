@@ -3,7 +3,7 @@ title: "Robonica"
 date: 2018-10-07T11:17:14+02:00
 publishdate: 2018-10-07T11:17:14+02:00
 image: "/images/case/robonica.jpg"
-tags: ["tech"]
+tags: ["Tech", "Arduino"]
 comments: false
 ---
 
