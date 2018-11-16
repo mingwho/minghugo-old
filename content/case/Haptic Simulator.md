@@ -8,3 +8,5 @@ comments: false
 ---
 
 A prototype dental haptic simulator for periodontal training.
+
+{{< vimeo 301178043 >}}

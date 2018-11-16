@@ -2,7 +2,7 @@
 title: "Graphic Design and Illustrations"
 date: 2018-10-06T11:17:14+02:00
 publishdate: 2018-10-06T11:17:14+02:00
-image: "/images/art/digital/baraha.png"
+image: "/images/art/digital/baraha.jpg"
 tags: ["art"]
 comments: false
 ---
