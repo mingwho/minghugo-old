@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d588f721-7d69-4885-b0c8-c324faf92fe8" name="Default Changelist" comment="" />
+    <list default="true" id="d588f721-7d69-4885-b0c8-c324faf92fe8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -32,7 +34,7 @@
           <entry key="jpg" value="1" />
           <entry key="md" value="32" />
           <entry key="sh" value="1" />
-          <entry key="toml" value="6" />
+          <entry key="toml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -41,7 +43,7 @@
           <entry key="HTML" value="20" />
           <entry key="Image" value="1" />
           <entry key="Markdown" value="32" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -50,7 +52,7 @@
           <entry key="CSS" value="393" />
           <entry key="HTML" value="532" />
           <entry key="Markdown" value="2953" />
-          <entry key="PLAIN_TEXT" value="463" />
+          <entry key="PLAIN_TEXT" value="473" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -59,13 +61,22 @@
           <entry key="css" value="393" />
           <entry key="html" value="532" />
           <entry key="md" value="2953" />
-          <entry key="toml" value="463" />
+          <entry key="toml" value="473" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/case/Aria.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -127,18 +138,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/art/special-effect-makeup.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="253">
-                <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/art/digital.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -150,7 +149,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/art/aerial.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -245,7 +244,6 @@
         <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/layouts/_default/list.html" />
         <option value="$PROJECT_DIR$/content/case/What Makes You.md" />
         <option value="$PROJECT_DIR$/content/case/Luminous Necklace.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/mediumish-gohugo-theme/static/css/medium.css" />
         <option value="$PROJECT_DIR$/content/case/Haptic Simulator.md" />
         <option value="$PROJECT_DIR$/content/case/Aria.md" />
@@ -255,6 +253,7 @@
         <option value="$PROJECT_DIR$/content/case/Illuminated.md" />
         <option value="$PROJECT_DIR$/content/art/digital.md" />
         <option value="$PROJECT_DIR$/content/art/aerial.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -353,12 +352,12 @@
       <workItem from="1541879429213" duration="423000" />
       <workItem from="1542110629940" duration="5167000" />
       <workItem from="1542183741460" duration="1856000" />
-      <workItem from="1542302749912" duration="14358000" />
+      <workItem from="1542302749912" duration="14966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37036000" />
+    <option name="totallyTimeSpent" value="37644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="26" width="1199" height="740" extended-state="0" />
@@ -546,13 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-656">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/art/film.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -657,6 +649,13 @@
             <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
