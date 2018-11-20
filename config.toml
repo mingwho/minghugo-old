@@ -3,6 +3,7 @@ theme = "mediumish-gohugo-theme"
 title = "Ming Hu"
 copyright = "Ming Hu - All wrongs reserved"
 enableEmoji = true
+summaryLength = 1
 
 [params]
 logo = "/images/logo.png"
