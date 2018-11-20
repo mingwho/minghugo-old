@@ -29,11 +29,6 @@ logo = "/images/logo.png"
     weight = 200
     identifier = "art"
     url = "/art"
-[[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
-    weight = 400
-    url = "/static/imprint"
 
 [params.index]
   picture = "/images/ming.jpg"
