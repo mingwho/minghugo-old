@@ -2,24 +2,36 @@
 title: "Film Photography"
 date: 2018-10-06T11:17:14+02:00
 publishdate: 2018-10-06T11:17:14+02:00
-image: "/images/art/film/image2.jpg"
+image: "/images/art/film/doggo.jpg"
 tags: ["art"]
 comments: false
 ---
 
-Photographic documentation of my wandering in New York City
-
 <!-- more -->
 
-![](/images/art/film/image1.jpg)
+![](/images/art/film/alex.jpg)
 
-![](/images/art/film/image3.jpg)
+![](/images/art/film/skeleton.jpg)
 
-![](/images/art/film/image4.jpg)
+![](/images/art/film/mermaid.jpg)
 
-![](/images/art/film/image5.jpg)
+![](/images/art/film/lisa.jpg)
 
-![](/images/art/film/image6.jpg)
+![](/images/art/film/coyote.jpg)
 
-![](/images/art/film/image7.jpg)
+![](/images/art/film/beggar.jpg)
+
+![](/images/art/film/central-park.jpg)
+
+![](/images/art/film/brooklyn-bridge.jpg)
+
+![](/images/art/film/fire-hydrant.jpg)
+
+![](/images/art/film/night.jpg)
+
+![](/images/art/film/speed.jpg)
+
+![](/images/art/film/feather-1.jpg)
+
+![](/images/art/film/feather-2.jpg)
 
