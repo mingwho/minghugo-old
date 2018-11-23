@@ -3,11 +3,21 @@ title: "Special Effect Makeup"
 date: 2018-10-07T11:17:14+02:00
 publishdate: 2018-10-07T11:17:14+02:00
 image: "/images/art/sfx/thumbnail.jpg"
-tags: ["art"]
+tags: ["art", "sculpt"]
 comments: false
 ---
 
 Using prosthetic sculpting, molding and casting techniques to create advanced cosmetic effects.
+
+In 2017 Spring at NYU,
+I took Intro to Special Effect Makeup with 
+[Robert Benevides](https://tisch.nyu.edu/about/directory/openarts/108252372)
+at NYU Tisch Open Arts Curriculum. I learned how to 
+mold, cast and paint silicone replica props;
+how to apply make-up effects such as cuts,
+bruises, scars, wounds, and burned flesh;
+and how to design and execute a zombie make up
+and how to sculpt a 1:1 animal character maquette.
 
 <!-- more -->
 
@@ -30,7 +40,7 @@ Using prosthetic sculpting, molding and casting techniques to create advanced co
 
 ![zombie-1](/images/art/sfx/zombie-1.jpg)
 
-#### Whimsical maquette
+#### Animal maquette
 ![maquette-1](/images/art/sfx/maquette-1.jpg)
 
 ![maquette-2](/images/art/sfx/maquette-2.jpg)
