@@ -9,3 +9,5 @@ comments: false
 
 A robotic telepresence research project that allows you
 to move around and explore a remote space from your phone.
+
+{{< vimeo 302513762 >}}

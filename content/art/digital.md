@@ -11,11 +11,11 @@ Digital design and illustrations using Illustrator and Photoshop.
 
 <!-- more -->
 
-### Low Poly Self-Portrait
+#### Low Poly Self-Portrait
 ![](/images/art/digital/self-portrait.png)
 
-### Design For Abu Dhabi Art Booth
+#### Design For Abu Dhabi Art Booth
 ![](/images/art/digital/abu-dhabi-art.png)
 
-### Presentation with Abu Dhabi Art Client
+#### Presentation with Abu Dhabi Art Client
 ![](/images/art/digital/abu-dhabi-art-2.jpg)
