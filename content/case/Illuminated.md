@@ -7,6 +7,6 @@ tags: ["Tech", "VR", "3D Modeling"]
 comments: false
 ---
 
-Illuminated is an adventurous and thrilling first person shooter VR experience.
+Illuminated is an adventurous and thrilling first person shooter VR game.
 
 {{< vimeo 301187277 >}}
