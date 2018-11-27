@@ -16,7 +16,7 @@ logo = "/images/logo.png"
 
 ## Main Menu
 [[menu.main]]
-    name = "Case Study"
+    name = "Work"
     weight = 100
     identifier = "case"
     url = "/case"
