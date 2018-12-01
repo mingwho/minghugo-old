@@ -66,7 +66,7 @@ to attract the audience and glide around it.
 A small bonus has been hidden in the map for anyone who is
 brave enough to hit the ground. He will trespass
 the boundary of earth and encounter
-a greyscale upside down world, equally breath-taking, while gliding.
+a greyscale upside down world while gliding.
 
 #### Gliding Mechanism Design
 
