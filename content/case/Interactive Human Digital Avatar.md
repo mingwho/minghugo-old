@@ -13,7 +13,7 @@ The system is designed to allow anybody, simply using a laptop, to create an ava
 
 This project was presented at the National Exhibition Center
  of Abu Dhabi, as well as the conference of Special Interest Group on Discourse and Dialogue
- in Melbourne 2018. The project paper is published on [ACL](http://aclweb.org/anthology/W18-5027).
+ in Melbourne 2018. The [project paper](http://aclweb.org/anthology/W18-5027) is published on ACL.
 
 
 {{< vimeo 301181868 >}}

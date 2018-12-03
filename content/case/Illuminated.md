@@ -1,7 +1,7 @@
 ---
 title: "Illuminated"
-date: 2018-10-07T11:17:14+02:00
-publishdate: 2018-10-07T11:17:14+02:00
+date: 2018-10-08T11:17:14+02:00
+publishdate: 2018-10-06T11:17:14+02:00
 image: "/images/case/illuminated.jpg"
 tags: ["Tech", "VR", "3D Modeling"]
 comments: false
@@ -80,7 +80,10 @@ The core concept of the experience is that we hide players’ existences at firs
 The concept of exposing both yourself and your opponents provides a blend of action and stealth gameplay. Often, action and stealth mechanics in games do not cooperate, but coexist. Sneak around unless you’re spotted and then gun down your enemies. Or defeat everyone in sight so that you may slip back into the shadows. One mechanic is employed until it outlives its usefulness, then gives way to the other. Illuminated challenges this relationship by combining its action and stealth elements into a single mechanic. Attacking and hiding are intertwined within the act of shooting: the attack is the stealth.
 
 
-
+#### Outcome
+The project was showcased at NYUAD Interactive Media Program's
+End of Semester Show and played by hundreds of audience
+visiting the show.
 
 
 #### More Information
