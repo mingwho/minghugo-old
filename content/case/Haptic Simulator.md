@@ -53,8 +53,8 @@ I was in charge of developing 3D models
 for periodontal pockets, infected spaces teeth and healthy
 gum, using 3D model software including Autodesk 3ds Max and Maya. 
 With the 3D models we developed, the cost and time required for trainees to understand different
-scenarios are cut down significantly and it will increase the
-learning retention rate.
+scenarios are cut down significantly and
+learning retention rate will be increased.
 
 
 #### Pockets 3D Model

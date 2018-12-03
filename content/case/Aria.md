@@ -117,6 +117,6 @@ at NYUAD Interactive Media program with hundreds of attendants.
 We are currently further improving it and submitting
 it to major VR festivals and events.
 
-Check our [Source code](https://github.com/mingwho/valleyofthewind) on Github
+Check out the [source code](https://github.com/mingwho/valleyofthewind) on Github
 
 Vive controllers image is from [here](https://github.com/osudrl/CassieVrControls/wiki/OpenVR-Quick-Start)
