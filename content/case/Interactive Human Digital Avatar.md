@@ -7,6 +7,18 @@ tags: ["Tech", "Chatbot"]
 comments: false
 ---
 
-Intelligent chatbot that answers your questions
+A bilingual (Arabic-English) conversational avatar, similar to a chat bot, except that the avatar is based on pre-recorded videos of an actual human being.
+ 
+The system is designed to allow anybody, simply using a laptop, to create an avatar of themselves.  As an interactive tool,  TOIA can serve as a conversational medium of story telling, thus enabling cross-cultural and cross-generational sharing and preservation of stories.  
+
+This project was presented at the National Exhibition Center
+ of Abu Dhabi, as well as the conference of Special Interest Group on Discourse and Dialogue
+ in Melbourne 2018. The project paper is published on [ACL](http://aclweb.org/anthology/W18-5027).
+
 
 {{< vimeo 301181868 >}}
+
+
+
+
+See the source code [here](https://github.com/nizarhabash1/TOIA-NYUAD)
