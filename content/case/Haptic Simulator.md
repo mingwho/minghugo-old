@@ -26,8 +26,7 @@ It can be sometimes hard to comprehend the situation from
 inside out due the limitations of real-life
 models. For example, dental students won't be provided
 with all types of physical models to diagnose different diseases
-due the cost of making hundreds
-of different customized models.
+due the cost of making different customized models.
 
  {{< vimeo 301178043 >}}
  
@@ -49,23 +48,32 @@ of different customized models.
 #### Team & Role
 
 This project is an on-going research at NYUAD's Applied
-Interactive Multi-Media in collaboration with the NYU College of Dentistry.
-Multiple students and researchers
- worked on different aspects of the project: virtual reality simulation,
-haptic feedback tuning, project management, etc. 
-
-My role in the project is to develop 3D models
-for periodontal pockets, spaces around the teeth below. 
-Using the 3D models of 
-distinct types of pockets, we were able to 
-cut the cost and time required for trainees to understand different
-scenarios that might occur to infected teeth.
+Interactive Multi-Media in collaboration with the NYU College of Dentistry. 
+I was in charge of developing 3D models
+for periodontal pockets, infected spaces teeth and healthy
+gum, using 3D model software including Autodesk 3ds Max and Maya. 
+With the 3D models we developed, the cost and time required for trainees to understand different
+scenarios are cut down significantly and it will increase the
+learning retention rate.
 
 
-#### Pockets 3D Modeling Design
+#### Pockets 3D Model
+![](/images/case/pockets.jpg)
+
+Periodontal pockets indicate the presence of an abnormal
+depth of gingival sulcus near the point at which teeth
+get into touch with the gingival tissue. I developed
+the 3D models of pockets of different severeness near different positions
+around the teeth to enable trainees understand and master
+the technique of diagnosing infected areas.
+
+
+#### Pockets Design Methodology
 ![](/images/case/pocket1.jpg)
 ![](/images/case/pocket2.jpg)
 ![](/images/case/pocket3.jpg)
 ![](/images/case/pocket4.jpg)
 
 Read more about this project [here](https://wp.nyu.edu/aimlab/research_projects/haptic_simulator/)
+
+Image of periodontal pockets is from [here](https://www.kevinconnellydmd.com/periodontal-disease-and-treatment)
