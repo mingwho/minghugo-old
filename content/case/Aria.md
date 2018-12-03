@@ -7,7 +7,7 @@ tags: ["Tech", "VR", "3D Modeling"]
 comments: false
 ---
 
-A VR experience that takes you on a gliding journey across mountains
+A VR glider that takes you on a journey across mountains
 and valleys to plant seeds and create euphoric soundscape.
 
 {{< vimeo 301179904 >}}
@@ -43,7 +43,8 @@ The target users of Aria are anyone who wants to explore
 
 #### Team & Role
 Having had previous experience designing a VR experience from the
-ground up, I teamed up with 3 other developers at NYU Abu Dhabi to build
+ground up, I teamed up with [Mateo Molina](http://www.mateocodes.art/hi.html)
+and [Grace Huang](https://www.instagram.com/thatgracehuang/), at NYU Abu Dhabi to build
 this project.
 
 I coordinated and led all facets of design and development including: interaction design,
