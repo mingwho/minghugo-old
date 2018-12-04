@@ -18,7 +18,7 @@ Playing with the concept of lighting and visibility, Illuminated merges intense 
 
 <br>
 
-#### Specific Moment
+#### A Specific Moment
 Picture the beginning of the match. The lights have just gone out, and the short glimpse you had of the other players is now gone. You start moving around, as you realize your opponents could have gone basically anywhere. You look around, look at your weapon, and look around again. You fire, only to realize your weapon produces light: the details in the arena around you become visible, but so do you. Before you know it, you see a projectile coming your way - someone has seen you. You teleport out of the way, trying to outsmart your foe and wondering where they might have gone next. You fire, and - Aha! Your guess was right: you see your opponent right where you wanted them. Before they realize what’s going on, you make your attack. Your shot connects, but this isn’t over. You teleport out of the light into the safety of your featureless environment, ready to plan your next assault.
 
 

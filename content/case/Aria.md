@@ -12,6 +12,8 @@ and valleys to plant seeds and create euphoric soundscape.
 
 {{< vimeo 301179904 >}}
 
+<br>
+
 Inspired by the classic Japanese anime Nausicaä of the 
 Valley of the Wind, Aria brings fantasy of gliding through mountains 
 into reality. With simple controls on the Vive trackpads, 

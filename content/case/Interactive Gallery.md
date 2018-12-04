@@ -35,5 +35,10 @@ the prototype
 to the curators and managers of Guggenheim, as well as writing
 documentation for future researchers.
 
+#### Interaction Design
+![](/images/case/gallery-1.jpg)
+![](/images/case/gallery-2.jpg)
+![](/images/case/gallery-3.jpg)
+
 
 See the source code [here](https://github.com/njw275/Interactive-Gallery/tree/master/paintingMoving)
