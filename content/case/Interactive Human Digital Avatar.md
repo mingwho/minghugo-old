@@ -12,7 +12,8 @@ A bilingual (Arabic-English) conversational avatar, similar to a chat bot, excep
 The system is designed to allow anybody, simply using a laptop, to create an avatar of themselves.  As an interactive tool,  TOIA can serve as a conversational medium of story telling, thus enabling cross-cultural and cross-generational sharing and preservation of stories.  
 
 This project was presented at the National Exhibition Center
- of Abu Dhabi, as well as the conference of Special Interest Group on Discourse and Dialogue
+ of Abu Dhabi, and Special Interest Group on Discourse and Dialogue
+ (SIGDIAL) Conference
  in Melbourne 2018. The [project paper](http://aclweb.org/anthology/W18-5027) is published on ACL.
 
 

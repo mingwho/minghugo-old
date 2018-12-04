@@ -45,8 +45,8 @@ The target users of Aria are anyone who wants to explore
 
 #### Team & Role
 Having had previous experience designing a VR experience from the
-ground up, I teamed up with [Mateo Molina](http://www.mateocodes.art/hi.html)
-and [Grace Huang](https://www.instagram.com/thatgracehuang/), at NYU Abu Dhabi to build
+ground up, I worked with [Mateo Molina](http://www.mateocodes.art/hi.html)
+and [Grace Huang](https://www.instagram.com/thatgracehuang/) to build
 this project.
 
 I coordinated and led all facets of design and development including: interaction design,
