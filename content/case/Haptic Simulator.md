@@ -47,8 +47,9 @@ due the cost of making different customized models.
 
 #### Team & Role
 
-This project is an on-going research at NYUAD's Applied
-Interactive Multi-Media in collaboration with the NYU College of Dentistry. 
+This project is an on-going research at NYUAD's [Applied
+Interactive Multi-Media](https://wp.nyu.edu/aimlab/) in collaboration with the 
+[NYU College of Dentistry](https://dental.nyu.edu/). 
 I was in charge of developing 3D models
 for periodontal pockets, the infected spaces teeth and healthy
 gum, using 3D model software including Autodesk 3ds Max and Maya. 
