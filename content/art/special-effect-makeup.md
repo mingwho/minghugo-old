@@ -7,7 +7,8 @@ tags: ["art", "sculpt"]
 comments: false
 ---
 
-Using prosthetic sculpting, molding and casting techniques to create advanced cosmetic effects.
+Using prosthetic sculpting, molding and casting techniques to create advanced cosmetic effects;
+***Uncomfortable and bloody content alert!***
 
 In 2017 Spring at NYU,
 I took Intro to Special Effect Makeup with 
