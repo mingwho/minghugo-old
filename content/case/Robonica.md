@@ -20,6 +20,14 @@ the image from the camera on the robot is visible on the screen of the phone. Si
 
 <br>
 
+#### Overall System Design
+![](/images/case/robonica-sketch.jpg)
+
+#### Team & Role
+This project is in collaboration with Professor [Michael Shiloh](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/michael-shiloh.html).
+I was in charge of researching the literature review of telepresence
+robot projects, designing and developing the user interface,
+conducting user testing and writing project documentation.
 
 
 
