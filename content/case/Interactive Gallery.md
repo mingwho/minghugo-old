@@ -7,8 +7,7 @@ tags: ["Tech", "VR"]
 comments: false
 ---
 
-An interactive gallery experience in partnership with Guggenheim
-Abu Dhabi
+Virtual reality gallery that enables real-time communication between artists and curators
 
 #### Background
 
