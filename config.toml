@@ -1,7 +1,7 @@
 languageCode = "en-us"
 theme = "mediumish-gohugo-theme"
 title = "Ming Hu"
-copyright = "Ming Hu - All wrongs reserved"
+copyright = "Ming Hu - All rights reserved"
 enableEmoji = true
 summaryLength = 1
 googleAnalytics = "UA-130576353-1"
@@ -16,6 +16,11 @@ logo = "/images/logo.png"
   twitter = "mingmingbling"
 
 ## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 50
+    identifier = "blog"
+    url = "/blog"
 [[menu.main]]
     name = "Work"
     weight = 100
